@@ -1,0 +1,22 @@
+.header{
+	background-color: lightblue;
+}
+	.A{
+	float: left;
+	background-color: lightgreen;
+	padding: 200px;
+	padding-right: 405px;
+	margin: 0px;
+	font-size: 30px;
+}
+.B{
+	float: right;
+	background-color: red ;
+	padding: 200px;
+	padding-left: 406px;
+	margin: 0px;
+	font-size: 30px;
+}
+.footer{
+	background color: grey;
+}
